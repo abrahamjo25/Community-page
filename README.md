@@ -1,12 +1,26 @@
-# Community-page
-# 1. Clone the Repository
+# Community Page
+
+## Description  
+This React application showcases a community page with posts and nested comments, enabling user interaction and discussions.
+
+## Setup
+
+### 1. Clone the Repository
+Start by cloning the repository to your local machine. In your terminal, run:
+
+```bash
 git clone https://github.com/abrahamjo25/Community-page.git
-
-# 2. Navigate into the project directory
+```
+### 2. Install Dependencies  
+Navigate into the project directory and install all the required dependencies using either `npm` or `yarn`.
 cd Community-page
-
-# 3. Install Dependencies (npm or yarn)
+```bash
 npm install
+```
 
-# 4. Start the application
+
+### 3. Start the app
+
+```bash
 npm start
+```
